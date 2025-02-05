@@ -1,0 +1,4 @@
+变量名	含义	设置地址
+HF_TOKEN	huggingface 的 Access Tokens (write)	Hugging Face – The AI community building the future.
+USERNAME	huggingface 的用户名	上面这个网址的左上角显示的用户名
+SPACE_LIST	空间列表	所有空间名称的列表，用英文 “,” 分隔

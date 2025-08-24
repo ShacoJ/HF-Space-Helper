@@ -1241,3 +1241,4 @@
 | [2025-08-24](https://github.com/ShacoJ/HF-Space-Helper/commits/a9d6e8d1a5bc6e83fff5b14d0ebb931ec0f73f1c/docs/index.html) |  |
 | [2025-08-24](https://github.com/ShacoJ/HF-Space-Helper/commits/7c82fd50a3b8756d035f49e5b5ae0b30e1c4a719/docs/index.html) |  |
 | [2025-08-24](https://github.com/ShacoJ/HF-Space-Helper/commits/c7b0258a14dc90bcc63be786f1a337c221a84528/docs/index.html) |  |
+| [2025-08-24](https://github.com/ShacoJ/HF-Space-Helper/commits/14bbc1764a77d5e32ae9ce5c81a954c3946f49b9/docs/index.html) |  |
